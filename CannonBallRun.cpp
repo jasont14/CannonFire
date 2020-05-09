@@ -7,7 +7,7 @@ using namespace std;
 //Introductory script
 int StartUp(){
 
-    cout << endl << "Welcome to Artillery. " << endl;
+    cout << endl << "Welcome to Cannon Fire. " << endl;
     cout << "You are in the middle of a war and being charged by thousands of enemies." << endl;
     cout << "You have one cannon, which you can shoot at any angle." << endl;
     cout << "You only have 10 cannonballs for this target.." << endl;
